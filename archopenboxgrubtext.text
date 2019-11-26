@@ -1,0 +1,10 @@
+
+Archopenbox:
+
+7a5449cd-1c9f-4e63-a01c-9821df8863e7/boot/
+vmlinuz-linux
+initramfs-linux.img
+
+
+7a5449cd-1c9f-4e63-a01c-9821df8863e7/boot/syslinux/
+syslinux.cfg
